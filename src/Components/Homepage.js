@@ -117,7 +117,9 @@ function Homepage() {
             </header>
             
             {switchComponent()}
+            <carousel />
         </HomepageStyled >
+      
     )
 }
 
